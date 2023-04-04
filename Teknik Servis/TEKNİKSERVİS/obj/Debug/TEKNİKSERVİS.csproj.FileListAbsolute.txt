@@ -1,0 +1,82 @@
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Arıza.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form2.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form3.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form4.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Menu.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Musteri.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Personel.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+c:\users\asus\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form5.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form6.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\TEKNİKSERVİS\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form7.resources
+C:\Users\ASUS\Desktop\teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+C:\Users\ASUS\Desktop\teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+C:\Users\ASUS\Desktop\teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Arıza.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form1.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form2.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form3.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form4.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form5.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form6.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form7.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Menu.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Musteri.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Personel.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yeni klasör\teknik servis ürün otomasyonu\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.pdb
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Arıza.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form1.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form2.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form3.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form4.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form5.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form6.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form7.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Menu.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Musteri.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Personel.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\proje\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csproj.GenerateResource.Cache
+C:\Users\win\Desktop\görüntü proje\sena senses 201513172023 teknik servis\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+C:\Users\win\Desktop\görüntü proje\sena senses 201513172023 teknik servis\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+C:\Users\win\Desktop\görüntü proje\sena senses 201513172023 teknik servis\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe.config
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.exe
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.pdb
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.exe
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\bin\Debug\TEKNİKSERVİS.pdb
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Arıza.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form1.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form2.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form3.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form4.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form5.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form6.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Form7.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Menu.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Musteri.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Personel.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.Properties.Resources.resources
+C:\Users\win\Desktop\sena senses 201513172023 teknik servis\TEKNİKSERVİS\obj\Debug\TEKNİKSERVİS.csproj.GenerateResource.Cache
